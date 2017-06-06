@@ -1,0 +1,503 @@
+﻿Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe assembly.
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe assembly.
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Attempt to stop service Tax Management Service.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.
+Attempt to stop service Tax Management Service.
+Installing assembly 'd:\Dropbox\Other\C#\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\C#\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Uninstalling assembly 'd:\Dropbox\Other\C#\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\C#\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\C#\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Removing EventLog source Tax Management Service.
+Service Tax Management Service is being removed from the system...
+Service Tax Management Service was successfully removed from the system.

@@ -1,0 +1,8 @@
+d:\Dropbox\Other\C#\ML_Service_client\ML_Service_client\ML_Service_client\bin\Debug\ML_Service_client.exe.config
+d:\Dropbox\Other\C#\ML_Service_client\ML_Service_client\ML_Service_client\bin\Debug\ML_Service_client.exe
+d:\Dropbox\Other\C#\ML_Service_client\ML_Service_client\ML_Service_client\bin\Debug\ML_Service_client.pdb
+d:\Dropbox\Other\C#\ML_Service_client\ML_Service_client\ML_Service_client\obj\Debug\ML_Service_client.ML_service_client.resources
+d:\Dropbox\Other\C#\ML_Service_client\ML_Service_client\ML_Service_client\obj\Debug\ML_Service_client.Properties.Resources.resources
+d:\Dropbox\Other\C#\ML_Service_client\ML_Service_client\ML_Service_client\obj\Debug\ML_Service_client.csproj.GenerateResource.Cache
+d:\Dropbox\Other\C#\ML_Service_client\ML_Service_client\ML_Service_client\obj\Debug\ML_Service_client.exe
+d:\Dropbox\Other\C#\ML_Service_client\ML_Service_client\ML_Service_client\obj\Debug\ML_Service_client.pdb

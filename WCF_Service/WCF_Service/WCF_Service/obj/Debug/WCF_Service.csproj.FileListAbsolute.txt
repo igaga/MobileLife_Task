@@ -1,0 +1,5 @@
+D:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\bin\Debug\WCF_Service.dll.config
+D:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\bin\Debug\WCF_Service.dll
+D:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\bin\Debug\WCF_Service.pdb
+D:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\obj\Debug\WCF_Service.dll
+D:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\obj\Debug\WCF_Service.pdb

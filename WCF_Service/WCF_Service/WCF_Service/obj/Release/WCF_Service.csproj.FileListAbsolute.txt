@@ -1,0 +1,10 @@
+d:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\bin\Release\WCF_Service.dll.config
+d:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\bin\Release\WCF_Service.dll
+d:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\bin\Release\WCF_Service.pdb
+d:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\obj\Release\WCF_Service.dll
+d:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\obj\Release\WCF_Service.pdb
+d:\Dropbox\Other\C#\MobileLife_Task\WCF_Service\WCF_Service\WCF_Service\bin\Release\WCF_Service.dll.config
+d:\Dropbox\Other\C#\MobileLife_Task\WCF_Service\WCF_Service\WCF_Service\bin\Release\WCF_Service.dll
+d:\Dropbox\Other\C#\MobileLife_Task\WCF_Service\WCF_Service\WCF_Service\bin\Release\WCF_Service.pdb
+d:\Dropbox\Other\C#\MobileLife_Task\WCF_Service\WCF_Service\WCF_Service\obj\Release\WCF_Service.dll
+d:\Dropbox\Other\C#\MobileLife_Task\WCF_Service\WCF_Service\WCF_Service\obj\Release\WCF_Service.pdb

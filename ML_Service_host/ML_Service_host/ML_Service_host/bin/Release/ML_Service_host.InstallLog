@@ -501,3 +501,16 @@ Affected parameters are:
 Removing EventLog source Tax Management Service.
 Service Tax Management Service is being removed from the system...
 Service Tax Management Service was successfully removed from the system.
+Installing assembly 'd:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe
+Installing service Tax Management Service...
+Service Tax Management Service has been successfully installed.
+Creating EventLog source Tax Management Service in log Application...
+Committing assembly 'd:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.InstallLog
+   assemblypath = d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Release\ML_Service_host.exe

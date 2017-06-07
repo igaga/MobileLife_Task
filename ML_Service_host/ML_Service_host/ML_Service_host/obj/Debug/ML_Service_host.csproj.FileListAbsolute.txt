@@ -7,3 +7,12 @@ D:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\obj\Debug\ML
 D:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\obj\Debug\ML_Service_host.pdb
 d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\obj\Debug\ML_Service_host.csprojResolveAssemblyReference.cache
 d:\Dropbox\Other\C#\ML_Service_host\ML_Service_host\ML_Service_host\bin\Debug\WCF_Service.dll
+d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\obj\Debug\ML_Service_host.csprojResolveAssemblyReference.cache
+d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\obj\Debug\ML_Service_host.exe
+d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\obj\Debug\ML_Service_host.pdb
+d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Debug\ML_Service_host.exe.config
+d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Debug\ML_Service_host.exe
+d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Debug\ML_Service_host.pdb
+d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Debug\WCF_Service.dll
+d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Debug\WCF_Service.pdb
+d:\Dropbox\Other\GitHub\MobileLife_Task\ML_Service_host\ML_Service_host\ML_Service_host\bin\Debug\WCF_Service.dll.config

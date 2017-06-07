@@ -3,3 +3,8 @@ D:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\bin\Debug\WCF_Service.dl
 D:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\bin\Debug\WCF_Service.pdb
 D:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\obj\Debug\WCF_Service.dll
 D:\Dropbox\Other\C#\WCF_Service\WCF_Service\WCF_Service\obj\Debug\WCF_Service.pdb
+d:\Dropbox\Other\GitHub\MobileLife_Task\WCF_Service\WCF_Service\WCF_Service\bin\Debug\WCF_Service.dll.config
+d:\Dropbox\Other\GitHub\MobileLife_Task\WCF_Service\WCF_Service\WCF_Service\bin\Debug\WCF_Service.dll
+d:\Dropbox\Other\GitHub\MobileLife_Task\WCF_Service\WCF_Service\WCF_Service\bin\Debug\WCF_Service.pdb
+d:\Dropbox\Other\GitHub\MobileLife_Task\WCF_Service\WCF_Service\WCF_Service\obj\Debug\WCF_Service.dll
+d:\Dropbox\Other\GitHub\MobileLife_Task\WCF_Service\WCF_Service\WCF_Service\obj\Debug\WCF_Service.pdb

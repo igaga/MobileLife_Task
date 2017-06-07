@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML_Service_client", "ML_Service_client\ML_Service_client.csproj", "{2A83D4AE-1550-4458-942A-3A129DD2F390}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AE0ED946-CBDC-45C3-8F00-F64A8111E691} = {AE0ED946-CBDC-45C3-8F00-F64A8111E691}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML_Service_host", "..\..\ML_Service_host\ML_Service_host\ML_Service_host\ML_Service_host.csproj", "{AE0ED946-CBDC-45C3-8F00-F64A8111E691}"
 	ProjectSection(ProjectDependencies) = postProject
